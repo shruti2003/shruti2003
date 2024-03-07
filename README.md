@@ -6,6 +6,16 @@ i enjoy working with frontend technologies like React, Angular, Javascript. I al
 and only Karlie Kloss. i'm also heavily involved with the local animal shelter and strive to better animal welfare. i have linked a machine learning model i created to help dogs at the shelter! i hope
 you enjoy. 
 
+
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+
+
 Find me around the web 🌎:\
 [personal website](https://www.cs.utexas.edu/~shruti/) \
 [linkedin](https://www.linkedin.com/in/shrutipat/)\
