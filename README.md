@@ -11,5 +11,5 @@ my links:\
 [personal website](https://www.cs.utexas.edu/~shruti/) \
 [linkedin](https://www.linkedin.com/in/shrutipat/)\
 [karlie kloss post about my app](https://www.instagram.com/karliekloss/p/CGn0bEnDEov/) 📱\
-[machine learning model for the austin animal shelter: project](https://github.com/shruti2003/MLFinalProject)  🐶\
+[machine learning model for the austin animal shelter: project](https://github.com/shruti2003/MLFinalProject)  🐶
 
