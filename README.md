@@ -8,16 +8,10 @@ you enjoy.
 
 
 ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
+- [personal website](https://www.cs.utexas.edu/~shruti/) \
++ [linkedin](https://www.linkedin.com/in/shrutipat/)\
+! [karlie kloss post about my app](https://www.instagram.com/karliekloss/p/CGn0bEnDEov/) 📱\
+# [machine learning model for the austin animal shelter: project](https://github.com/shruti2003/MLFinalProject)  🐶\
 @@ text in purple (and bold)@@
 ```
 
-
-Find me around the web 🌎:\
-[personal website](https://www.cs.utexas.edu/~shruti/) \
-[linkedin](https://www.linkedin.com/in/shrutipat/)\
-[karlie kloss post about my app](https://www.instagram.com/karliekloss/p/CGn0bEnDEov/) 📱\
-[machine learning model for the austin animal shelter: project](https://github.com/shruti2003/MLFinalProject)  🐶\
