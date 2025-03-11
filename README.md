@@ -11,6 +11,7 @@ you enjoy.
 
 my projects (most relavant to least)
 
+- 🤖 **[Real Estate Chat Bot](https://github.com/shruti2003/Real_Estate_Chat_Bot)**: Building (in progress) with **Python, Flask, Natural Language Processing (NLP), Dialogflow, SQLite,** and **JavaScript**. 
 - 📈 **[Track Trade Orders Application](https://github.com/shruti2003/orders_app):** Developed using **Flask API, Python, AWS, Docker, WebSockets, API Development**
 - ⚡ **[Log Parser - AMD Silicon Testing Automation](https://github.com/shruti2003/LogParser)** Built with **Databricks, PySpark, Power BI, Python**
 - 📱 **[EZVote](https://www.instagram.com/karliekloss/p/CGn0bEnDEov/) (Karlie Kloss featured my app!):** An **iOS application**  
