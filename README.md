@@ -16,5 +16,6 @@ my projects (most recent to least)
 - 🐶 **[Machine Learning Model for the Austin Animal Shelter](https://github.com/shruti2003/MLFinalProject):** Built with **ML, Python**
 - 🌐 **[Personal Website](https://www.cs.utexas.edu/~shruti/):** Built with **HTML, CSS, JavaScript** Not updated with new projects.  
 - 🖼 **[Image Classification](https://github.com/shruti2003/ImageClassification/tree/main):** Built with **ML Concepts, Python**  
-- 📈 **[Stock Predictions](https://github.com/shruti2003/StockPredictions/tree/main)** Built with **ML Concepts (Time Series Analysis), Python**  
+- 📈 **[Stock Predictions](https://github.com/shruti2003/StockPredictions/tree/main)** Built with **ML Concepts (Time Series Analysis), Python**
+- 🏅 **[Olympics Data Analysis](https://github.com/shruti2003/dbt-project)** Built with **dbt, Google Cloud, Python, BigQuery**. 
 
