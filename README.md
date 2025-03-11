@@ -13,8 +13,8 @@ my projects (most recent to least)
 
 - 📈 **[Track Trade Orders Application](https://github.com/shruti2003/orders_app):** Developed using **Flask API, Python, AWS, Docker, WebSockets, API Development**  
 - 📱 **[EZVote](https://www.instagram.com/karliekloss/p/CGn0bEnDEov/) (Karlie Kloss featured my app!):** An **iOS application**  
-- 🐶 ** [Machine Learning Model for the Austin Animal Shelter](https://github.com/shruti2003/MLFinalProject):** Built with **ML, Python**
-- - 🌐 **[Personal Website](https://www.cs.utexas.edu/~shruti/):** Built with **HTML, CSS, JavaScript** Not updated with new projects.  
+- 🐶 **[Machine Learning Model for the Austin Animal Shelter](https://github.com/shruti2003/MLFinalProject):** Built with **ML, Python**
+- 🌐 **[Personal Website](https://www.cs.utexas.edu/~shruti/):** Built with **HTML, CSS, JavaScript** Not updated with new projects.  
 - 🖼 **[Image Classification](https://github.com/shruti2003/ImageClassification/tree/main):** Built with **ML Concepts, Python**  
 - 📈 **[Stock Predictions](https://github.com/shruti2003/StockPredictions/tree/main)** Built with **ML Concepts (Time Series Analysis), Python**  
 
