@@ -13,7 +13,7 @@ my projects (most relavant to least)
 - 🔗 **[On-Chain Reward Verification System](https://github.com/shruti2003/smart_contract_final)**: Built with Solidity, Hardhat, Foundry, OpenZeppelin, Ethers.js, featuring ERC20 tokens, liquidity pools, and on-chain APY/TVL verification.
 - 🤖 **[Real Estate Chat Bot](https://github.com/shruti2003/Real_Estate_Chat_Bot)**: Building (in progress) with **Python, Flask, Natural Language Processing (NLP), Dialogflow, SQLite,** and **JavaScript**. 
 - 📈 **[Track Trade Orders Application](https://github.com/shruti2003/orders_app):** Developed using **Flask API, Python, AWS, Docker, WebSockets, API Development**
-- ⚡ **[Log Parser - AMD Silicon Testing Automation](https://github.com/shruti2003/LogParser)** Built with **Databricks, PySpark, Power BI, Python**
+- ⚡ **[Log Parser - AMD Silicon Testing Automation](https://github.com/shruti2003/Log_Parser)** Built with **Databricks, PySpark, Power BI, Python**
 - 📱 **[EZVote](https://www.instagram.com/karliekloss/p/CGn0bEnDEov/) (Karlie Kloss featured my app!):** An **iOS application**  
 - 🐶 **[Machine Learning Model for the Austin Animal Shelter](https://github.com/shruti2003/MLFinalProject):** Built with **ML, Python**
 - 🌐 **[Personal Website](https://www.cs.utexas.edu/~shruti/):** Built with **HTML, CSS, JavaScript** Not updated with new projects.  
