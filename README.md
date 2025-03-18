@@ -10,7 +10,7 @@ you enjoy.
 💼 **[LinkedIn](https://www.linkedin.com/in/shrutipat/)**  
 
 my projects (most relavant to least)
-
+- 🔗 **Axal On-Chain Reward Verification System[https://github.com/shruti2003/smart_contract_final]**: Built with Solidity, Hardhat, Foundry, OpenZeppelin, Ethers.js, featuring ERC20 tokens, liquidity pools, and on-chain APY/TVL verification.
 - 🤖 **[Real Estate Chat Bot](https://github.com/shruti2003/Real_Estate_Chat_Bot)**: Building (in progress) with **Python, Flask, Natural Language Processing (NLP), Dialogflow, SQLite,** and **JavaScript**. 
 - 📈 **[Track Trade Orders Application](https://github.com/shruti2003/orders_app):** Developed using **Flask API, Python, AWS, Docker, WebSockets, API Development**
 - ⚡ **[Log Parser - AMD Silicon Testing Automation](https://github.com/shruti2003/LogParser)** Built with **Databricks, PySpark, Power BI, Python**
