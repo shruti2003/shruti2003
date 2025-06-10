@@ -10,7 +10,7 @@ you enjoy.
 💼 **[LinkedIn](https://www.linkedin.com/in/shrutipat/)**  
 
 my projects (most relavant to least)
-- 🧠 **[Website Cloner AI][https://github.com/shruti2003/website_cloner_ai.git]**: Built with FastAPI + Node.js + LLMs — Clones any website using an AI model (OpenAI/Anthropic) given a URL. Generates HTML/CSS/JS programmatically from analyzed structure and content.
+- 🧠 **[Website Cloner AI](https://github.com/shruti2003/website_cloner_ai.git)**: Built with FastAPI + Node.js + LLMs — Clones any website using an AI model (OpenAI/Anthropic) given a URL. Generates HTML/CSS/JS programmatically from analyzed structure and content.
 - 🔗 **[On-Chain Reward Verification System](https://github.com/shruti2003/smart_contract_final)**: Built with Solidity, Hardhat, Foundry, OpenZeppelin, Ethers.js, featuring ERC20 tokens, liquidity pools, and on-chain APY/TVL verification.
 - 🤖 **[Real Estate Chat Bot](https://github.com/shruti2003/Real_Estate_Chat_Bot)**: Building (in progress) with **Python, Flask, Natural Language Processing (NLP), Dialogflow, SQLite,** and **JavaScript**.
 - 🛒 **[API Ecommerce](https://github.com/shruti2003/ecommerce_app)**: Developed to showcase API skills, utilizing **PostgreSQL, RESTful API development, testing and more.**
