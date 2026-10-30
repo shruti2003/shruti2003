@@ -10,7 +10,7 @@ you enjoy.
 💼 **[LinkedIn](https://www.linkedin.com/in/shrutipat/)**  
 
 my projects (most relavant to least)
-- 🎮 **[Created a fun NYC Daily Subway Game]**: Hosted on AWS: [turnstyl.us](https://turnstyl.us/)
+- 🎮 **[Created a fun NYC Daily Subway Game](https://turnstyl.us/)**: Hosted on AWS: [turnstyl.us](https://turnstyl.us/)
 - 💸 **[Personal Paper Trader AI](https://github.com/shruti2003/shrutpaa-trade-bot)**: Built with **Python, Streamlit, Claude API, ChromaDB, SQLite, yfinance, SEC EDGAR, and Black-Scholes** — an AI-powered paper-trading platform with realistic stock/options trading, portfolio analytics, RAG-based financial research, and an AI copilot with tool calling.
 - 🧠 **[Website Cloner AI](https://github.com/shruti2003/website_cloner_ai.git)**: Built with FastAPI + Node.js + LLMs — Clones any website using an AI model (OpenAI/Anthropic) given a URL. Generates HTML/CSS/JS programmatically from analyzed structure and content.
 - 🔗 **[On-Chain Reward Verification System](https://github.com/shruti2003/smart_contract_final)**: Built with Solidity, Hardhat, Foundry, OpenZeppelin, Ethers.js, featuring ERC20 tokens, liquidity pools, and on-chain APY/TVL verification.
